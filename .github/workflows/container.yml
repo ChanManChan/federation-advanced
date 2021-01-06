@@ -6,6 +6,7 @@ on:
       - master
     paths:
       - 'container/**'
+      - '.github/**'
 
 defaults:
   run:
